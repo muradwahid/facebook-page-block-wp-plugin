@@ -1,0 +1,52 @@
+{
+  "apiVersion": "1",
+  "name": "b-blocks/facebook-page-block",
+  "title": "Facebook Page",
+  "description": "The Facebook Page plugin allows you to embed your Facebook Page on your WordPress website.",
+  "category": "widgets",
+  "keywords": ["facebook", "page", "embed"],
+  "textdomain": "b-blocks",
+  "attributes": {
+    "align": {
+      "type": "string",
+      "default": ""
+    },
+    "cId": {
+      "type": "string",
+      "default": ""
+    },
+    "content": {
+      "type": "string",
+      "default": "Lorem text should be replaced with real text"
+    },
+    "facebook":{
+      "type":"object",
+      "default":{
+        "appId":"",
+        "link":"https://www.facebook.com/bPluginsLLC",
+        "layout":["timeline"],
+        "smallHeader":false,
+        "coverPhoto":true,
+        "profilePhotos":true,
+        "ctaButton":true,
+        "width":340,
+        "height":500
+      }
+    }
+  },
+  "supports": {
+    "align": ["wide", "full"],
+    "html": false
+  },
+  "example": {
+    "attributes": {
+      "preview": true,
+      "columns": {
+        "desktop": 1,
+        "tablet": 1,
+        "mobile": 1
+      }
+    }
+  },
+  "editorScript": "file:./../dist/editor.js"
+}
