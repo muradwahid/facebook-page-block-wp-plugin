@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: Facebook Page Block
- * Description: The Facebook Page plugin allows you to embed your Facebook Page on your WordPress website..
+ * Description: The Facebook Page block plugin allows you to embed your Facebook Page on your WordPress website..
  * Version: 1.0.0
  * Author: bPlugins LLC
  * Author URI: http://bplugins.com
  * License: GPLv3
  * License URI: https://www.gnu.org/licenses/gpl-3.0.txt
- * Text Domain: facebook-page
+ * Text Domain: b-blocks
  */
 
 // ABS PATH

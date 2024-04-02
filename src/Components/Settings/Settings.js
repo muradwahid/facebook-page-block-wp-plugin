@@ -20,6 +20,9 @@ const Settings = ({ attributes, setAttributes }) => {
           value={facebook.appId}
           onChange={(value) => update('appId', value)}
         />
+        <div style={{marginTop:"-25px",marginBottom:"10px"}}>
+          <small>{__("Don't have an APP Id ", "b-blocks")} <a href="https://developers.facebook.com/apps/">click here</a></small>
+       </div>
         <TextControl
           label={__('Link', 'b-blocks')}
           value={facebook.link}

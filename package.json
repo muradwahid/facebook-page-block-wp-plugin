@@ -1,5 +1,5 @@
 {
-  "name": "facebook-page",
+  "name": "facebook-page-block",
   "version": "1.0.0",
   "description": "The Facebook Page plugin allows you to embed your Facebook Page on your WordPress website.",
   "main": "index.js",
