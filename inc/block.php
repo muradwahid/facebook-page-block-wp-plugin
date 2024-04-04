@@ -12,7 +12,7 @@ class FBPGHelloBlock{
 			'render_callback'	=> [$this, 'render']
 		] ); // Register Block
 
-		wp_set_script_translations( 'fbpg-hello-editor-script', 'b-blocks', FBPG_DIR_PATH . 'languages' );
+		wp_set_script_translations( 'fbpg-hello-editor-script', 'social-media-page-block', FBPG_DIR_PATH . 'languages' );
 	}
 
 	function render( $attributes ){
@@ -20,7 +20,7 @@ class FBPGHelloBlock{
 
 		wp_enqueue_style( 'fbpg-hello-style' );
 		wp_enqueue_script( 'fbpg-hello-script', FBPG_DIR_URL . 'dist/script.js', [ 'react', 'react-dom' ], FBPG_VERSION, true );
-		wp_set_script_translations( 'fbpg-hello-script', 'b-blocks', FBPG_DIR_PATH . 'languages' );
+		wp_set_script_translations( 'fbpg-hello-script', 'social-media-page-block', FBPG_DIR_PATH . 'languages' );
 
 		$className = $className ?? '';
 		$blockClassName = "wp-block-fbpg-hello $className align$align";

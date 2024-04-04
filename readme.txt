@@ -1,4 +1,4 @@
-=== Facebook Page ===
+=== Social Media ===
 Contributors: abuhayat
 Donate link: https://gum.co/wpdonate/
 Tags: block, facebook, page,embed, Gutenberg block
@@ -9,19 +9,18 @@ Requires PHP: 7.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-
-The Facebook Page plugin allows you to embed your Facebook Page on your WordPress website. This enables you to display your Page's content, such as posts, events, and photos, directly on your website. It also provides social media integration features, such as allowing visitors to like and share your Page from your website.
+Embed your social media content on your WordPress site. Display posts, events, and photos directly.
 
 == Description ==
 
-- The Facebook Page plugin is a powerful and versatile tool for integrating your Facebook Page with your WordPress website. It allows you to easily display your Page's content, engage with your audience, and promote your Page on your website. With its user-friendly interface and customizable features, the Facebook Page plugin is the perfect solution for businesses, organizations, and individuals looking to leverage the power of Facebook on their WordPress website.
+- The Social Media Block is a powerful and versatile tool for integrating your Social Media with your WordPress website. It allows you to easily display your Page's content, engage with your audience, and promote your Page on your website. With its user-friendly interface and customizable features, the Social Media Block is the perfect solution for businesses, organizations, and individuals looking to leverage the power of Facebook on their WordPress website.
 
 
-**[Demos](https://bblockswp.com/demo/facebook-page-block)**
+**[Demos](https://bblockswp.com/demo/social-media-page-block)**
 
 
 = Features =
-- **Embed Your Facebook Page**: Easily embed your Facebook Page on your website using a simple shortcode.
+- **Embed Your Social Media**: Easily embed your Social Media on your website using a simple shortcode.
 
 - **Display Page Content**: Showcase your Page's posts, events, photos, and more on your website.
 
@@ -29,8 +28,8 @@ The Facebook Page plugin allows you to embed your Facebook Page on your WordPres
 
 
 = How to use =
-- First, install the Facebook Page plugin
-- Add the Facebook Page from the block category called "Widgets" in Gutenberg editor.
+- First, install the Social Media plugin
+- Add the Social Media from the block category called "Widgets" in Gutenberg editor.
 - You can change block settings from the right-side settings sidebar.
 - Enjoy!
 
@@ -64,25 +63,25 @@ The Facebook Page plugin allows you to embed your Facebook Page on your WordPres
 
 = From Gutenberg Editor: =
 1. Go to the WordPress Block/Gutenberg Editor
-2. Search For **Facebook Page**
-3. Click on the **Facebook Page** to add the block
+2. Search For **Social Media**
+3. Click on the **Social Media** to add the block
 
 = Download & Upload: =
-1. Download the **Facebook Page** plugin (*.zip file*)
+1. Download the **Social Media** plugin (*.zip file*)
 2. In your admin area, go to the Plugins menu and click on **Add New**
-3. Click on **Upload Plugin** and choose the **`facebook-page-block.zip`** file and click on **Install Now**
+3. Click on **Upload Plugin** and choose the **`social-media-page-block.zip`** file and click on **Install Now**
 4. Activate the plugin and Enjoy!
 
 = Manually: =
-1. Download and upload the **Facebook Page** plugin to the **`/wp-content/plugins/`** directory
+1. Download and upload the **Social Media** plugin to the **`/wp-content/plugins/`** directory
 2. Activate the plugin through the Plugins menu in WordPress
 
 
 == Frequently Asked Questions ==
 
-= Is Facebook Page free? =
+= Is Social Media free? =
 
-Yes, Facebook Page is a free Gutenberg block plugin.
+Yes, Social Media is a free Gutenberg block plugin.
 
 = Does it work with any WordPress theme? =
 
@@ -98,12 +97,12 @@ You can use unlimited times as you want.
 
 = Where can I get support? =
 
-You can post your questions on the [support forum here](https://wordpress.org/support/plugin/facebook-page-block/)
+You can post your questions on the [support forum here](https://wordpress.org/support/plugin/social-media-page-block/)
 
 
 == Screenshots ==
 
-1. Facebook Page
+1. Social Media
 2. Settings
 
 

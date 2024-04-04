@@ -1,7 +1,7 @@
 {
-  "name": "facebook-page-block",
+  "name": "social-media-page-block",
   "version": "1.0.0",
-  "description": "The Facebook Page plugin allows you to embed your Facebook Page on your WordPress website.",
+  "description": "The Social Media plugin allows you to embed your Social Media on your WordPress website.",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",

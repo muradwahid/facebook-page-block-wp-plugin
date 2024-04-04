@@ -1,11 +1,11 @@
 {
   "apiVersion": "1",
-  "name": "b-blocks/facebook-page-block",
-  "title": "Facebook Page Block",
-  "description": "The Facebook Page Block plugin allows you to embed your Facebook Page on your WordPress website.",
+  "name": "b-blocks/social-media-page-block",
+  "title": "Social Media Page",
+  "description": "The Social Media Page plugin allows you to embed your Social Media on your WordPress website.",
   "category": "widgets",
   "keywords": ["facebook", "page", "embed"],
-  "textdomain": "b-blocks",
+  "textdomain": "social-media-page-block",
   "attributes": {
     "align": {
       "type": "string",
@@ -19,18 +19,18 @@
       "type": "string",
       "default": "Lorem text should be replaced with real text"
     },
-    "facebook":{
-      "type":"object",
-      "default":{
-        "appId":"",
-        "link":"https://www.facebook.com/bPluginsLLC",
-        "layout":["timeline"],
-        "smallHeader":false,
-        "coverPhoto":true,
-        "profilePhotos":true,
-        "ctaButton":true,
-        "width":340,
-        "height":500
+    "facebook": {
+      "type": "object",
+      "default": {
+        "appId": "",
+        "link": "https://www.facebook.com/bPluginsLLC",
+        "layout": ["timeline"],
+        "smallHeader": false,
+        "coverPhoto": true,
+        "profilePhotos": true,
+        "ctaButton": true,
+        "width": 340,
+        "height": 500
       }
     }
   },
